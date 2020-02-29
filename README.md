@@ -1,5 +1,5 @@
 **How to run the project**
->Use an Ne0tBeans Ide
+>Use an NetBeans Ide
 
 >Import project
 
